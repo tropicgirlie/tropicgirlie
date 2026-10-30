@@ -12,6 +12,10 @@
 
 I’m Luana, a product designer in life sciences and an indie builder. I work on care-aware, trauma-informed tools for women and caregivers, and explore how good product design can make a hard day a little easier to navigate.
 
+## Private products, real-world traction
+
+Some of my most successful product work happens behind private repositories, research and operational systems. It spans women’s health, care, work and family life, including [FemHealth](https://femhealth.science), [RemoteShe](https://www.remoteshe.co), [ReturnKit](https://returnkit.life) and [Tiny Trip Index](https://www.tinytripindex.com). The public sites show the products; I keep private code, internal dashboards and user information private. Several have strong real-world traction, and I can discuss the product decisions and outcomes without exposing sensitive details.
+
 ## A few things I’ve made
 
 | Project | What it helps with |
