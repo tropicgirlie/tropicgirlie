@@ -20,6 +20,7 @@ I’m Luana, a product designer in life sciences and an indie builder. I work on
 | [Cognitive Engine](https://github.com/tropicgirlie/cognitive-engine) | Evidence-led UX interventions for messy product problems. |
 | [Carefolio](https://github.com/tropicgirlie/carefolio) | A care index dashboard with a documented score feed used by RemoteShe. |
 | [Count Me In: Dyscalculia](https://github.com/tropicgirlie/count-me-in-dyscalculia-website) | A dyscalculia website concept and implementation. |
+| [Closet, in rotation](https://tropicgirlie.github.io/closet-in-rotation/) | A local-first wardrobe tool for putting outfits together from clothes you own. |
 
 ## What I’m exploring
 
