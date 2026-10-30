@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tropicgirlie/tropicgirlie/main/banner.svg" alt="Luana Micheau, product designer and indie builder" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tropicgirlie/tropicgirlie/main/toucan-caju-v1.png" alt="Luana’s toucan, caju and travel mark" width="320" />
+</p>
 
 <p align="center">
   <a href="https://www.luana.systems">Portfolio</a> ·
